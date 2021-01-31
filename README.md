@@ -1,9 +1,9 @@
 # Finding the insight information on the rental business by a data-driven approach.
 # Table of Contents
-[Installation](#headingg)
-[Project Motivation](#heading)
-[File Descriptions](#heading)
-[Results](#headingg)
+1.[Installation](#headingg)
+2.[Project Motivation](#heading)
+3.[File Descriptions](#heading)
+4.[Results](#headingg)
 
 ### 1. Installation
 The project code should run with no issues using Anaconda python versions 3.*.
