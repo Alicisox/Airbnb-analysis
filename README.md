@@ -35,5 +35,5 @@ readme.md: README file. <br/>
 Airbnb_analysis.ipynb: The jupyter notebook file where the code and visualization are presented.
 
 ## Results
-The results are discuss in my blog post: <br/>
+The results are discussed in my blog post: <br/>
 https://medium.com/p/a31fc25d5b77/
