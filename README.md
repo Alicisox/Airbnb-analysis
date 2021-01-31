@@ -3,11 +3,11 @@
 # Table of Contents
 [Headers](#headers)
   * [Installation](#sub-heading)
-  * [Project Motivation]
-  * [File Descriptions]
-  * [Results](#sub-heading-1)
+  * [Project Motivation](#sub-heading)
+  * [File Descriptions](#sub-heading)
+  * [Results](#sub-heading)
 
-1.Installation
-2.Project Motivation
-3.File Descriptions
-4.Results
+1.## Installation
+2.## Project Motivation
+3.## File Descriptions
+4.## Results
