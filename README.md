@@ -29,6 +29,7 @@ datasets/boston/listings.csv: The boston dataset. <br/>
 datasets/boston/reviews.csv: The boston comment dataset. <br/>
 datasets/seattle/listings.csv: The seattle dataset. <br/>
 datasets/seattle/reviews.csv: The seattle comment dataset. <br/>
+
 images/: The folder that contains images for explaination. <br/>
 
 readme.md: README file. <br/>
