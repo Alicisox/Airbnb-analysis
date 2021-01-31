@@ -1,4 +1,3 @@
-# Airbnb-analysis
 # Finding the insight information on the rental business by a data-driven approach.
 # Table of Contents
 [Installation](#headingg)
