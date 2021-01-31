@@ -1,8 +1,8 @@
 # Finding the insight information on the rental business by a data-driven approach.
 # Table of Contents
-1. [Installation](#Installation)\
-2. [Project Motivation](#Project-Motivation)\
-3. [File Descriptions](#File-Descriptions)\
+1. [Installation](#Installation)
+2. [Project Motivation](#Project-Motivation)
+3. [File Descriptions](#File-Descriptions)
 4. [Results](#Results)
 
 # Installation
