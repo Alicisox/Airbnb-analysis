@@ -6,6 +6,7 @@
 4. [Libraries](#Libraries)
 5. [File Descriptions](#File-Descriptions)
 6. [Results](#Results)
+7. [Resources](#Resources)
 
 ## Project Motivation
 I do this project, due to my desire to finding insight information about the rental business. I am curious about these 3 questions:
@@ -51,3 +52,11 @@ datasets/training.1600000.processed.noemoticon.csv
 ## Results
 The results are discussed in my blog post: <br/>
 https://medium.com/p/a31fc25d5b77/
+
+## Resources
+* Boston dataset <br/>
+https://www.kaggle.com/airbnb/boston
+* Seattle dataset <br/>
+https://www.kaggle.com/airbnb/seattle/data
+* Tweets dataset <br/>
+https://www.kaggle.com/kazanova/sentiment140/version/1
