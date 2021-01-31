@@ -10,8 +10,8 @@ The project code should run with no issues using Anaconda versions 4.9.x and pyt
 The tweet dataset are not in the github repository becaue of the file size. So you need to download from here:
 https://www.kaggle.com/kazanova/sentiment140 </br>
 After download put it in the data folder for example: </br>
-```python
-data/tweet_data.csv
+```
+datasets/tweet_data.csv
 ```
 ## Project Motivation
 I do this project, due to my desire to finding insight information about the rental business. I am curious about these 3 questions:
