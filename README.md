@@ -21,7 +21,7 @@ The tweet dataset are not in the github repository becaue of the file size. So y
 https://www.kaggle.com/kazanova/sentiment140/version/1 </br>
 After download put it in the data folder as an example below: </br>
 ```
-training.1600000.processed.noemoticon/tweet_data.csv
+datasets/training.1600000.processed.noemoticon.csv
 ```
 ## File Descriptions
 datasets/: The folder that contains dataset. <br/>
