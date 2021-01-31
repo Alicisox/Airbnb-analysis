@@ -24,13 +24,14 @@ After download put it in the data folder as an example below: </br>
 training.1600000.processed.noemoticon/tweet_data.csv
 ```
 ## File Descriptions
-datasets/boston/listings.csv: The boston dataset <br/>
-datasets/boston/reviews.csv: The boston comment dataset <br/>
-datasets/seattle/listings.csv: The seattle dataset <br/>
-datasets/seattle/reviews.csv: The seattle comment dataset <br/>
-images/: The folder that contains images for explaination <br/>
+datasets/: The folder that contains dataset. <br/>
+datasets/boston/listings.csv: The boston dataset. <br/>
+datasets/boston/reviews.csv: The boston comment dataset. <br/>
+datasets/seattle/listings.csv: The seattle dataset. <br/>
+datasets/seattle/reviews.csv: The seattle comment dataset. <br/>
+images/: The folder that contains images for explaination. <br/>
 
-readme.md: README file
+readme.md: README file.
 Airbnb_analysis.ipynb: The jupyter notebook file where the code and visualization are presented.
 
 ## Results
