@@ -19,35 +19,20 @@ The answers of each question are provided inside the jupyter notebook file.
 The project code should run with no issues using Anaconda versions 4.9.x and python versions 3.x. </br>
 The tweet dataset are not in the github repository becaue of the file size. So you need to download from here:
 https://www.kaggle.com/kazanova/sentiment140/version/1 </br>
-After download put it in the data folder for example: </br>
+After download put it in the data folder as an example below: </br>
 ```
-datasets/tweet_data.csv
+training.1600000.processed.noemoticon/tweet_data.csv
 ```
 ## File Descriptions
-```
-datasets/boston/listings.csv
-```
-The boston dataset
-```
-datasets/boston/reviews.csv
-```
-The boston comment dataset
-```
-datasets/seattle/listings.csv
-```
-The seattle dataset
-```
-```
-datasets/seattle/listings.csv
-```
-The comments dataset
-/images
-```
-The folder that contains images for explaination
-```
-readme.md 
-```
-README file
+
+datasets/boston/listings.csv: The boston dataset
+datasets/boston/reviews.csv: The boston comment dataset
+datasets/seattle/listings.csv: The seattle dataset
+datasets/seattle/reviews.csv: The seattle comment dataset
+images/: The folder that contains images for explaination<br/>
+
+readme.md: README file
+Airbnb_analysis.ipynb: The jupyter notebook file where the code and visualization are presented.
 
 ## Results
 The results are discuss in my blog post:
