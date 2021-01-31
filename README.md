@@ -57,6 +57,6 @@ https://medium.com/p/a31fc25d5b77/
 * Boston dataset <br/>
 https://www.kaggle.com/airbnb/boston
 * Seattle dataset <br/>
-https://www.kaggle.com/airbnb/seattle/data
+https://www.kaggle.com/airbnb/seattle
 * Tweets dataset <br/>
 https://www.kaggle.com/kazanova/sentiment140/version/1
