@@ -31,9 +31,9 @@ datasets/seattle/listings.csv: The seattle dataset. <br/>
 datasets/seattle/reviews.csv: The seattle comment dataset. <br/>
 images/: The folder that contains images for explaination. <br/>
 
-readme.md: README file.
+readme.md: README file. <br/>
 Airbnb_analysis.ipynb: The jupyter notebook file where the code and visualization are presented.
 
 ## Results
-The results are discuss in my blog post:
+The results are discuss in my blog post: <br/>
 https://medium.com/p/a31fc25d5b77/
