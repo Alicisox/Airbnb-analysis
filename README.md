@@ -3,8 +3,9 @@
 1. [Project Motivation](#Project-Motivation)
 2. [Description](#Description)
 3. [Installation](#Installation)
-4. [File Descriptions](#File-Descriptions)
-5. [Results](#Results)
+4. [Libraries](#Libraries)
+5. [File Descriptions](#File-Descriptions)
+6. [Results](#Results)
 
 ## Project Motivation
 I do this project, due to my desire to finding insight information about the rental business. I am curious about these 3 questions:
@@ -24,15 +25,28 @@ After downloaded the tweet dataset, put it in the datasets folder as an example 
 ```
 datasets/training.1600000.processed.noemoticon.csv
 ```
+## Libraries
+pandas
+numpy
+re 
+sklearn
+math
+statsmodels
+scipy
+matplotlib
+seaborn
+nltk
+bs4
+
 ## File Descriptions
 ```datasets/```: The folder that contains dataset. <br/>
 ```datasets/boston/listings.csv```: The boston dataset. <br/>
-datasets/boston/reviews.csv: The boston comment dataset. <br/>
-datasets/seattle/listings.csv: The seattle dataset. <br/>
-datasets/seattle/reviews.csv: The seattle comment dataset. <br/>
-images/: The folder that contains images for explaination. <br/>
-readme.md: README file. <br/>
-airbnb_analysis.ipynb: The jupyter notebook file where the code and visualization are presented.
+```datasets/boston/reviews.csv```: The boston comment dataset. <br/>
+```datasets/seattle/listings.csv```: The seattle dataset. <br/>
+```datasets/seattle/reviews.csv```: The seattle comment dataset. <br/>
+```images/```: The folder that contains images for explaination. <br/>
+```readme.md```: README file. <br/>
+```airbnb_analysis.ipynb```: The jupyter notebook file where the code and visualization are presented.
 
 ## Results
 The results are discussed in my blog post: <br/>
