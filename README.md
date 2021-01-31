@@ -29,13 +29,26 @@ datasets/boston/listings.csv
 ```
 The boston dataset
 ```
+datasets/boston/reviews.csv
+```
+The boston comment dataset
+```
 datasets/seattle/listings.csv
 ```
 The seattle dataset
 ```
+```
+datasets/seattle/listings.csv
+```
+The comments dataset
 /images
 ```
-The images folder
+The folder that contains images for explaination
+```
+readme.md 
+```
+README file
+
 ## Results
 The results are discuss in my blog post:
 https://medium.com/p/a31fc25d5b77/
