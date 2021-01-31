@@ -6,7 +6,7 @@
 4. [Results](#Results)
 
 ## Installation
-The project code should run with no issues using Anaconda versions 4.9.x and python versions 3.x.
+The project code should run with no issues using Anaconda versions 4.9.x and python versions 3.x. </br>
 The tweet dataset are not in the github repository becaue of the file size. So you need to download from here:
 https://www.kaggle.com/kazanova/sentiment140
 
