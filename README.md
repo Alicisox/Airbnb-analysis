@@ -19,7 +19,7 @@ This project gives an insight information on the Airbnb rental business by using
 The answers of each question are provided inside the jupyter notebook file. 
 
 ## Installation
-The project code should run with no issues using Anaconda versions 4.9.x and python versions 3.x. </br>
+The project code should run with no issues using Anaconda versions 4.9.x, python versions 3.x., and seaborn versions 0.11.x </br>
 The tweet dataset are not in the github repository becaue of the file size. So you need to download from here:
 https://www.kaggle.com/kazanova/sentiment140/version/1 </br>
 After downloaded the tweet dataset, put it in the datasets folder as an example below: </br>
