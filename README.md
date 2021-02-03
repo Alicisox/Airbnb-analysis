@@ -32,10 +32,10 @@ datasets/training.1600000.processed.noemoticon.csv
 * sklearn
 * nltk
 * bs4
+* scipy
 * re
 * math
 * statsmodels
-* scipy
 * matplotlib
 * seaborn
 
