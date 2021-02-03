@@ -29,15 +29,15 @@ datasets/training.1600000.processed.noemoticon.csv
 ## Libraries
 * pandas
 * numpy
-* re 
 * sklearn
+* nltk
+* bs4
+* re
 * math
 * statsmodels
 * scipy
 * matplotlib
 * seaborn
-* nltk
-* bs4
 
 ## File Descriptions
 ```datasets/```: The folder that contains dataset. <br/>
