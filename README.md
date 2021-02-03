@@ -45,7 +45,7 @@ datasets/training.1600000.processed.noemoticon.csv
 ```datasets/boston/reviews.csv```: The boston comment dataset. <br/>
 ```datasets/seattle/listings.csv```: The seattle dataset. <br/>
 ```datasets/seattle/reviews.csv```: The seattle comment dataset. <br/>
-```images/```: The folder that contains images for explaination. <br/>
+```images/```: The folder that contains images for explanation. <br/>
 ```readme.md```: README file. <br/>
 ```airbnb_analysis.ipynb```: The jupyter notebook file where the code and visualization are presented.
 
