@@ -9,7 +9,7 @@
 7. [Resources](#Resources)
 
 ## Project Motivation
-I do this project, due to my desire to finding insight information about the rental business. I am curious about these 3 questions:
+I create this project, due to my desire to finding insight information about the rental business. I am curious about these 3 questions:
 1. What factors affect price fluctuations?
 2. What factors affect customer satisfaction?
 3. Can we find negative and positive reviews based on texts?
