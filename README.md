@@ -51,7 +51,7 @@ datasets/training.1600000.processed.noemoticon.csv
 
 ## Results
 The results are discussed in my blog post: <br/>
-https://medium.com/p/a31fc25d5b77/
+https://medium.com/@Alcos1031/how-to-find-the-rental-business-insight-information-by-a-data-driven-approach-a31fc25d5b77
 
 ## Resources
 * Boston dataset <br/>
