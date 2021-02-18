@@ -15,7 +15,7 @@ I create this project, due to my desire to finding insight information about the
 3. Can we find negative and positive reviews based on texts?
 
 ## Description
-This project gives insight information on the Airbnb rental business by using the machine learning method. </br>
+This project finds insight information on the Airbnb rental business by using the machine learning method. </br>
 The answers of each question are provided inside the jupyter notebook file.
 
 ## Installation
