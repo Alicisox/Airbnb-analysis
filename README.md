@@ -15,8 +15,8 @@ I create this project, due to my desire to finding insight information about the
 3. Can we find negative and positive reviews based on texts?
 
 ## Description
-This project gives an insight information on the Airbnb rental business by using machine learning method. 
-The answers of each question are provided inside the jupyter notebook file. 
+This project gives insight information on the Airbnb rental business by using the machine learning method. </br>
+The answers of each question are provided inside the jupyter notebook file.
 
 ## Installation
 The project code should run with no issues using Anaconda versions 4.9.x, python versions 3.x., and seaborn versions 0.11.x </br>
