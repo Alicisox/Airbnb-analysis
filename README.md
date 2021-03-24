@@ -50,7 +50,8 @@ datasets/training.1600000.processed.noemoticon.csv
 ```airbnb_analysis.ipynb```: The jupyter notebook file where the code and visualization are presented.
 
 ## Results
-The results are discussed in my blog post: <br/>
+- The project finds what factors affect price fluctuation, customer satisfaction, and finds the sentiment of reviews based on texts.
+More result details are discussed in my blog post: <br/>
 https://medium.com/@Alcos1031/how-to-find-the-rental-business-insight-information-by-a-data-driven-approach-a31fc25d5b77
 
 ## Resources
